@@ -65,6 +65,11 @@ header {
     background: var(--card-bg-color);
     border-bottom: 2px solid var(--cor-primaria-CARTAO);
     border-radius: 6px;
+    
+}
+.card:last-child {
+    margin-bottom: 50px;
+    
 }
 
 .card h2 {
